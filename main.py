@@ -1,5 +1,8 @@
-#PRUEBA DE MINIJUEGO
-#19 de agosto de 2021 inicio
+# Jhairo Sobarzo, Estudiante del Insuco de Valparaiso.
+# Matías Gutiérrez, Estudiante del Insuco de Valparaiso.
+# Inicio: 19 de agosto de 2021.
+
+# Intro
 input("Hola, soy steve")
 print()
 input("te guiare por este pequeño tutorial")
@@ -8,7 +11,6 @@ input("aunque solo soy una IA diseñada para satisfacer tu ganas de jugar videoj
 print()
 input("Ahora debes elegir entre una de estas opciones:" )
 print()
-while bucle == "Si" or "si"
   print (" (1) Obtener 10 monedas")
   print (" (2) Robar 100 monedas")
   print()
@@ -24,8 +26,3 @@ while bucle == "Si" or "si"
   else:
     if op_monedas == 2 :
       print ("Aaaah, eres un ladronsuelo algo astuto, pero  la ves imbecil, para robarle a la persona que te da una opción de continuar con tu vida, aun que es algo ficticio, ¿pero acaso no lo has hecho en la vida real?")
-      
-      
-      #eri puro wn hijo de tu querida madre
-      
-      
