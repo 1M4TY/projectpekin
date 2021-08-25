@@ -25,3 +25,7 @@ while bucle == "Si" or "si"
     if op_monedas == 2 :
       print ("Aaaah, eres un ladronsuelo algo astuto, pero  la ves imbecil, para robarle a la persona que te da una opción de continuar con tu vida, aun que es algo ficticio, ¿pero acaso no lo has hecho en la vida real?")
       
+      
+      #eri puro wn hijo de tu querida madre
+      
+      
